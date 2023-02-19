@@ -1,1 +1,2 @@
-testando apenas
+link para download do git https://git-scm.com/
+O git bach é um terminal extendido para otimizar o uso do git
